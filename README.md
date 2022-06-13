@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 
 I'm learning for Big-data Analysist.
 
-Language : Python, SQL, JavaScript, CSS
-OS : Windows, Linux
-Framework+Library : Tensorflow, Keras, PyTorch, Django, Flask, docker ...
-Database : Oracle, MariaDB
-Development Tool : Colab, Jupyter Notebook, VScode, sqldeveloper
-Data Preprocessing : Pandas, Numpy, BeautifulSoup, Selenium ...
-Data Analaysis : Scikit Learn, Scipy, Statsmodels ...
-Data Visualization : Matplotlib, Seaborn, Tableau
+Language : Python, SQL, JavaScript, CSS  
+OS : Windows, Linux  
+Framework+Library : Tensorflow, Keras, PyTorch, Django, Flask, docker ...  
+Database : Oracle, MariaDB  
+Development Tool : Colab, Jupyter Notebook, VScode, sqldeveloper  
+Data Preprocessing : Pandas, Numpy, BeautifulSoup, Selenium ...  
+Data Analaysis : Scikit Learn, Scipy, Statsmodels ...  
+Data Visualization : Matplotlib, Seaborn, Tableau  
