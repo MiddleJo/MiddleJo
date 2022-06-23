@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> -->
 
+![KakaoTalk_20220613_172347149](https://user-images.githubusercontent.com/96767467/175222361-15131b04-89ab-4808-89f8-9cc1e9b51dc3.jpg)
+
+
 I'm learning for Big-data Analysist.
 
 Language : Python, SQL, JavaScript, CSS  
