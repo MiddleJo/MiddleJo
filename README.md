@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> -->
 
-<img src = "https://user-images.githubusercontent.com/96767467/175222361-15131b04-89ab-4808-89f8-9cc1e9b51dc3.jpg" width = "300" height = "600"/>
+<img src = "https://user-images.githubusercontent.com/96767467/175222361-15131b04-89ab-4808-89f8-9cc1e9b51dc3.jpg" width = "500" height = "500"/>
 
 
 I'm learning for Big-data Analysist.
