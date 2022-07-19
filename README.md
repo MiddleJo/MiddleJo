@@ -27,4 +27,4 @@ Pretained Model :
 
 [2nd Project](https://github.com/MiddleJo/Automatic_stock_management) : Automatic stock management system for Smart Factory.
 
-[3rd Project](https://github.com/MiddleJo/SkyRoad_for_Drone) : Optimal drone aeronautical route calculation for making emergency delivery system using drones.
+[3rd Project](https://github.com/MiddleJo/SkyRoad_for_Drone) : Optimal aeronautical route calculation for making emergency delivery system using drones.
