@@ -19,7 +19,9 @@ Data Analaysis : Scikit Learn, Scipy, Statsmodels ...
 Data Visualization : Matplotlib, Seaborn ...  
 Pretained Model : 
   - Image : VGG19, YOLO series
-  - NLP : Word2Vec  
+  - NLP : Word2Vec, BERT
+  - RL : DQN
+  - Time Series : SARIMA, Prophet, GRU  
 
 ## Projects
 
