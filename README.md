@@ -3,8 +3,11 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175222361-15131b04-89ab-4808-89f8-9cc1e9b51dc3.jpg" width = "500" height = "500"/>
 
 I studied for Big-data Analysist (21/12/28 ~ 22/06/23)  
-:tada: I got the 2nd prize in the Bigdata contest with Ministry of Land, Infrastructure and Transport :tada:  
 And I'm still studying various new technologies.
+
+## AWARDS  
+:tada: I got the 2nd prize in the Bigdata contest with Ministry of Land, Infrastructure and Transport (2022/08) :tada:  
+you can see my project in [here](https://www.bigdata-transportation.kr/pageant/dashboard/CMPE_000000000020004) or my [github](https://github.com/MiddleJo/SkyRoad_for_Drone)
 
 ## Skill Set
 Language : Python, SQL, HTML5, JavaScript, CSS  
