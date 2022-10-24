@@ -3,6 +3,7 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175222361-15131b04-89ab-4808-89f8-9cc1e9b51dc3.jpg" width = "500" height = "500"/>
 
 I studied for Big-data Analysist (21/12/28 ~ 22/06/23)  
+:tada: I got the 2nd prize in the "국토교통부 빅데이터 활용 경진대회" :tada:
 And I'm still studying various new technologies.
 
 ## Skill Set
