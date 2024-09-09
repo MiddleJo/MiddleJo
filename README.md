@@ -3,7 +3,7 @@
 <img src = "https://user-images.githubusercontent.com/96767467/175222361-15131b04-89ab-4808-89f8-9cc1e9b51dc3.jpg" width = "500" height = "500"/>
 
 I studied for AI/Big-data Analysist (21/12/28 ~ 22/06/23)  
-I'm studying for Digital Chip Design (24/03 ~ 24/12)
+I'm studying for Digital Chip Design (24/03 ~ 24/12)  
 And I'm still studying various new technologies.
 
 ## AWARDS  
@@ -26,9 +26,9 @@ Synthesis Tool : Genus, Synopsys
 P&R Tool : Innovus  
 
 --AI  
-Image : VGG19, YOLO series, Karlo ...
-NLP : Word2Vec, BERT, ChatGPT ...
-RL : DQN
+Image : VGG19, YOLO series, Karlo ...  
+NLP : Word2Vec, BERT, ChatGPT ...  
+RL : DQN  
 Time Series : SARIMA, Prophet, GRU  
 
 
